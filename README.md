@@ -4,7 +4,7 @@ WIP
 Blockchain file storage interface. Using arweave as file storage, bundlr to interact with it and the Polygon Blockchain.
 Deployed on the Mumbai testnet, so the files only stay up for like about a week, feel free to deploy this on the mainnet for real usage..
 
-Live version on [On Vercel](https://)
+Live version on [On Vercel](https://b-storage.vercel.app/)
 
 (Requires testnet Mumbai MATIC and MetaMask installed)
 Please make sure you're on Mumbai Testnet before using this dApp,
