@@ -52,7 +52,7 @@ export default function UploadFile({ uploadPost, setSelectedFile, selectedFile, 
             onChange={(e) => setDesc(e.target.value)}
             required
           />
-          <ReactiveButton type="submit" buttonState={state} idleText={'Upload File'} loadingText={'This takes a while... :I'} style={{ borderRadius: '12px' }} className="lg:w-[188px] w-[88px] lg:ml-12 ml-6 bg-blue-700"/>
+          <ReactiveButton type="submit" buttonState={state} idleText={'Upload File'} loadingText={'This takes a while... :I'} className="rounded-xl lg:w-[188px] w-[88px] lg:ml-12 ml-6 bg-blue-700"/>
         </form>
       </div>
     </div>

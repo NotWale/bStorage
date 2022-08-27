@@ -1,6 +1,5 @@
 import { ReactComponent as Play } from "../assets/play.svg";
 import { ReactComponent as Pause } from "../assets/pause.svg";
-import {Dispatch, SetStateAction,} from 'react';
 
 type Props = {
     isPlaying: boolean;
